@@ -1,0 +1,19 @@
+/* //style door notifications */
+
+.container-fluid {
+    padding-right: 78%;
+}
+
+.panel-body {
+    padding: 8%;
+    display: none;
+    opacity: 1;
+}
+
+#closed {
+    display: none;
+}
+
+#off {
+    display: none;
+}
